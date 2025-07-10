@@ -6,6 +6,7 @@ Focused on: *Game Design*, *UI/UX*, *Automation*, and *Music-Based Games*.
 > `console.log('world domination'); // soon`  
 > `console.log('8 years of programming experience');`
 
+i fucking love indie games
 
 [![Last.fm](https://img.shields.io/badge/Last.fm-111111?style=flat&logo=last.fm&logoColor=white)](https://www.last.fm/user/droppingpearls)
 
