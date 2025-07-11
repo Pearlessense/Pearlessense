@@ -15,7 +15,7 @@ i fucking love indie games
 ## 🧠 Skills
 
 **Languages**  
-- `Luau`, `Python`, `Java`, `C#`, `HTML`
+- `Python`, `Java`, `Luau`, `C#`, `HTML`
 
 **Design**  
 - UI/UX Design  
@@ -23,7 +23,7 @@ i fucking love indie games
 - Character Design
 
 **Tools**  
-- `Roblox Studio`, `Unity`
+- `Unity`, `Roblox Studio`
 
 **Photography**  
 - Nature & Urban Exploration  
