@@ -39,10 +39,10 @@ i fucking love indie games
 
 ## 🏷️ Tech Stack
 
-![Lua](https://img.shields.io/badge/Lua-111111?style=flat&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-111111?style=flat&logo=roblox&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-111111?style=flat&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-111111?style=flat&logo=lua&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-111111?style=flat&logo=roblox&logoColor=white)
 
 ---
 
