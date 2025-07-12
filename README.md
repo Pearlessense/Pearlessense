@@ -25,6 +25,6 @@ i fucking love indie games
 
 [![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1143740135964409867)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white)](https://github.com/Pearlessense)
-[![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://pearlfeet.pics/)
+[![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://rhy.lol/)
 
 ---
