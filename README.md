@@ -3,6 +3,10 @@
 **Programmer** / **Game Developer** / **Photographer** / **Student**  
 Focused on: *Game Design*, *UI/UX*, *Automation*, and *Music-Based Games*.
 
+Moderator at
+https://guns.lol/ [840K+]
+https://discord.com/invite/guns [400k+]
+
 i fucking love indie games
 
 ---
