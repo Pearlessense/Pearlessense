@@ -5,9 +5,12 @@ Focused on: *Game Design*, *UI/UX*, *Automation*, and *Music-Based Games*.
 
 ---
 
-Moderator at
-- https://guns.lol/ » [930,000+ Users]
-- https://discord.com/invite/guns » [450,000+ Members]
+Moderator @
+- https://guns.lol/ » [1,000,000+ Users]
+- https://discord.com/invite/guns » [500,000+ Members]
+
+Co-Owner/Community Manager @
+- https://discord.com/invite/bribe
 
 avid indie game enjoyer
 
