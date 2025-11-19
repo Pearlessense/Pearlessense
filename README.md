@@ -10,7 +10,8 @@ Focused on: *Game Design*, *UI/UX*, *Automation*, and *Music-Based Games*.
 - https://discord.com/invite/guns » [500,000+ Members]
 
 **Owner @**
-- https://discord.com/invite/rhy
+- https://discord.com/invite/apparel
+- Fashion dedicated community server [2.1k Members]
 
 avid indie game enjoyer
 
