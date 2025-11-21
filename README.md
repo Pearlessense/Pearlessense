@@ -1,7 +1,6 @@
 # [!] About Me
 
 **Programmer** / **Game Developer** / **Photographer** / **Student**  
-Focused on: *Game Design*, *UI/UX*, *Automation*, and *Music-Based Games*.
 
 ---
 
