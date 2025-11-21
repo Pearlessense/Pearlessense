@@ -1,6 +1,7 @@
 # [!] About Me
 
 **Programmer** / **Game Developer** / **Photographer** / **Student**  
+avid indie game enjoyer
 
 ---
 
@@ -12,8 +13,10 @@
 - https://discord.com/invite/apparel
 - Fashion dedicated community server [2.1k Members]
 
-avid indie game enjoyer
-
+**Owner || Lead Developer**
+- https://discord.com/invite/knowva
+- https://github.com/Pearlessense/knowva
+  
 ---
 
 ## [+] Skills
