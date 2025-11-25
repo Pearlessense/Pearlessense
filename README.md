@@ -5,9 +5,9 @@ avid indie game enjoyer
 
 ---
 
-**Moderator @**
-- https://guns.lol/ » [1,000,000+ Users]
-- https://discord.com/invite/guns » [500,000+ Members]
+**Staff @**
+- https://guns.lol/ » [1,200,000+ Users]
+- https://discord.com/invite/guns » [550,000+ Members]
 
 **Owner @**
 - https://discord.com/invite/apparel
@@ -35,8 +35,9 @@ avid indie game enjoyer
 
 ## [-] Contact Me
 
-[![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1143740135964409867)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/apparel)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white)](https://github.com/Pearlessense)
 [![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://rhy.lol/)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:rhy@guns.lol)
 
 ---
