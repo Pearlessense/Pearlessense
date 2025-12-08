@@ -14,7 +14,8 @@ avid indie game enjoyer
 - Fashion dedicated community server [2.1k Members]
 
 **Owner of**
-- https://discord.com/invite/
+- https://knowva.lol
+- https://discord.com/invite/JnytCGnNjf
 - https://github.com/Pearlessense/knowva
   
 ---
