@@ -9,10 +9,6 @@ avid indie game enjoyer
 - https://guns.lol/ » [1,200,000+ Users]
 - https://discord.com/invite/guns » [550,000+ Members]
 
-**Owner @**
-- https://discord.com/invite/apparel
-- Fashion dedicated community server [2.1k Members]
-
 **Owner of**
 - https://knowva.lol
 - https://discord.com/invite/JnytCGnNjf
