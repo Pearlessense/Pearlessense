@@ -36,7 +36,7 @@ avid indie game enjoyer
 ## [-] Contact Me
 
 [![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/EchoesOfLumina)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=telegram&logoColor=white)](https://t.me/earmuf)
+[![GitHub](https://img.shields.io/badge/Telegram-111111?style=flat&logo=telegram&logoColor=white)](https://t.me/earmuf)
 [![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://rhy.lol/)
 
 ---
