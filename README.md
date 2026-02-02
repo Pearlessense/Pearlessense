@@ -5,14 +5,17 @@ avid indie game enjoyer
 
 ---
 
-**Staff @**
-- https://guns.lol/ » [1,200,000+ Users]
-- https://discord.com/invite/guns » [550,000+ Members]
+**Ex-Staff @**
+- https://guns.lol/ » [1,400,000+ Users]
+- https://discord.com/invite/guns » [660,000+ Members]
 
 **Owner of**
 - https://knowva.lol
 - https://discord.com/invite/JnytCGnNjf
 - https://github.com/Pearlessense/knowva
+
+**Server Manager of**
+- https://discord.com/invite/EchoesOfLumina [1k+ Members]
   
 ---
 
@@ -32,9 +35,8 @@ avid indie game enjoyer
 
 ## [-] Contact Me
 
-[![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/apparel)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/EchoesOfLumina)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white)](https://github.com/Pearlessense)
 [![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://rhy.lol/)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:rhy@guns.lol)
 
 ---
