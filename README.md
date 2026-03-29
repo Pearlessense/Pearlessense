@@ -10,7 +10,7 @@ avid indie game enjoyer
 - https://discord.com/invite/guns » [660,000+ Members]
 
 **Owner of Discord Bot**
-- https://knowva.lol » 4k+ Commands Ran, 17 Servers
+- https://knowva.lol » 5k+ Commands Ran, 20+ Servers
 - https://discord.com/invite/JnytCGnNjf » Support
 - https://github.com/Pearlessense/knowva » About the bot
 
