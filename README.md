@@ -5,7 +5,7 @@ avid indie game enjoyer
 
 ---
 
-[Portfolio](https://kissed.you/portfolio)
+https://kissed.you/portfolio
   
 ---
 
