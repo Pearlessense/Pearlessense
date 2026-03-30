@@ -5,20 +5,7 @@ avid indie game enjoyer
 
 ---
 
-**Ex-Staff @**
-- https://guns.lol/ » [1,400,000+ Users]
-- https://discord.com/invite/guns » [660,000+ Members]
-
-**Owner of Discord Bot**
-- https://knowva.lol » 5k+ Commands Ran, 20+ Servers
-- https://discord.com/invite/JnytCGnNjf » Support
-- https://github.com/Pearlessense/knowva » About the bot
-
-**Moderator @**
-- https://discord.com/invite/redliner » [30k+ Members]
-
-**Server Manager of**
-- https://discord.com/invite/EchoesOfLumina » [1k+ Members]
+[Portfolio](https://kissed.you/portfolio)
   
 ---
 
