@@ -15,7 +15,8 @@ https://kissed.you/portfolio
 - `Python`, `Java`, `Luau`, `C#`, `HTML`
 
 **Design**  
-- UI/UX Design  
+- UI/UX Design
+- Graphic Design 
 - Map/Environment Design  
 - Character Design
 
