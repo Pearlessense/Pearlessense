@@ -1,7 +1,7 @@
 # [!] About Me
 
-**Programmer** / **Game Developer** / **Photographer** / **Student**  
-avid indie game enjoyer
+**Programmer** / **Game Developer** / **Photographer** / **Psychology Student**  
+Productivity
 
 ---
 
