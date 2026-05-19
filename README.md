@@ -1,7 +1,6 @@
 # [!] About Me
 
 **Programmer** / **Game Developer** / **Photographer** / **Psychology Student**  
-Productivity
 
 ---
 
@@ -23,6 +22,8 @@ https://kissed.you/portfolio
 **Photography**  
 - Nature & Urban Exploration  
 - Visual storytelling through candid moments
+
+**Automation**
 
 ## [-] Contact Me
 
