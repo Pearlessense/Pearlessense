@@ -24,6 +24,7 @@ https://kissed.you/portfolio
 - Visual storytelling through candid moments
 
 **Automation**
+- Macros & Tools made to make things easier
 
 ## [-] Contact Me
 
